@@ -7,11 +7,11 @@ int main() {
     cout<<"**********Sum and average calculator**********\n";
     cout<<"Enter First number:";
     cin>>a;
-    cout<<"Enter First number:";
+    cout<<"Enter Second number:";
     cin>>b;
-    cout<<"Enter First number:";
+    cout<<"Enter Third number:";
     cin>>c;
-    cout<<"Enter First number:";
+    cout<<"Enter Forth number:";
     cin>>d;
 
     int sum = a + b + c + d;
